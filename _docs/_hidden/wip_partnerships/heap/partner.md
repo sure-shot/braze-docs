@@ -14,7 +14,7 @@ hidden: true
 
 # Heap
 
-> [Heap](https://heap.io/)focuses you on opportunities in your digital experience that most impact your business. Eliminate friction, delight your customers, and accelerate revenue.
+> [Heap](https://heap.io/) focuses you on opportunities in your digital experience that most impact your business. Eliminate friction, delight your customers, and accelerate revenue.
 
 The Braze and Heap integration enables you to both [import Heap data to Braze](#data-import-integration) and create cohorts as well as [export braze data to Heap](#data-export-integration) to create segments.
 
