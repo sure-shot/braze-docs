@@ -14,9 +14,9 @@ hidden: true
 
 # Heap
 
-> [Heap](https://heap.io/) In this first section, include a brief description of your company. Also, include a link to your main site. TODO - is this something Heap should provide?
+> [Heap](https://heap.io/)focuses you on opportunities in your digital experience that most impact your business. Eliminate friction, delight your customers, and accelerate revenue.
 
-The Braze and Heap integration enables you to both [import Heap data to Braze](#data-import-integration) and create segments as well as [export braze data to Heap](#data-export-integration). 
+The Braze and Heap integration enables you to both [import Heap data to Braze](#data-import-integration) and create cohorts as well as [export braze data to Heap](#data-export-integration) to create segments.
 
 ## Prerequisites
 
@@ -29,8 +29,9 @@ The Braze and Heap integration enables you to both [import Heap data to Braze](#
 {: .reset-td-br-1 .reset-td-br-2}
 
 ## Use cases
-
-Use cases can be a critical part of your documentation. Although optional, this is a good place to outline typical or even novel use cases for the integration. This can be used as a way to sell or upsell the relationship - it provides context, ideas, and most importantly, a way to visualize the capabilities of the integration.
+1. Re-engage users who’ve abandoned a funnel: Trigger re-engagement messaging when users abandon the purchase or subscription funnel
+2. Personalize the trial experience: Identify friction points in your trial experience and send correctly timed reminders to re-engage users during a trial and help them get to value
+3. Drive higher engagement on announcements and offers: Target promotions, updates, and new service announcements to the relevant audiences
 
 ## Data import integration
 
